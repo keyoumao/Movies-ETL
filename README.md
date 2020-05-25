@@ -2,7 +2,7 @@
 
 ## Methods
 
-Please refer to the challenge.py (<https://github.com/keyoumao/Movies-ETL/blob/master/challenge.py)> module for the transformation-data function for cletransform(Wikipediadata, Kagglemetadata, MovieLensratingdata):
+Please refer to the challenge.py (https://github.com/keyoumao/Movies-ETL/blob/master/challenge.py) module for the transformation-data function for cletransform(Wikipediadata, Kagglemetadata, MovieLensratingdata):
 
 - General function to load all three data files:
     Wikipedia data
